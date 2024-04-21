@@ -31,10 +31,9 @@ https://github.com/gabscost/MemoryGame_Valorant.
 2. Abra o arquivo `index.html` em um navegador da web.
 
 ## Screenshot
+![Screenshot](https://github.com/gabscost/MemoryGame_Valorant/assets/104831757/e2b93364-038e-447f-b8be-14a60ae6dfee)
 
-(![image](![image](https://github.com/gabscost/MemoryGame_Valorant/assets/104831757/8db2c351-8b47-4b59-a2cb-1f111f21a3b7)
-)
-)
+
 
 ## Autor
 
