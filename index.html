@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jogo da Memoria</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="shortcut icon" href="https://image.flaticon.com/icons/svg/3132/3132772.svg" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="card.css" />
+    <link rel="stylesheet" href="win.css" />
+    <link rel="stylesheet" href="responsive.css" />
+    
+</head>
+
+<body>
+    <header>
+        <h1>JOGO DA MEMÓRIA VALORANT</h1>
+        <nav>
+        </nav>
+    </header>
+
+    <div id="vitoria">
+        <div id="container">
+            <h1>Parabéns!</h1>
+            <p>Você encontrou todos os agentes com</p>
+            <h2><span id="movimentosvitoria">0</span> ERROS</h2>
+            <p>Sua pontuação: </p>
+            <h2><span id="pontuacaovitoria">0</span> PONTOS</h2>
+            <a href="index.html">Jogar denovo</a>
+        </div>
+    </div>
+
+    <section id="responsivo">
+        <h2>Erros <span id="movimentos2">0</span></h2>
+
+        <a href="index.html">Reiniciar</a>
+    </section>
+
+    <div class="corpo">
+        <section id="esq">
+            <h2>Erros <span id="movimentos">0</span></h2>   
+            <h2>Pontuação: <span id="pontuacao">0</span></h2>
+
+            <a href="index.html">Reiniciar</a>
+        </section>
+        <section class="jogo">
+            <div class="card" data-nome="jett">
+                <img class="frente" src="imagens/jett.jpg" alt="card" />
+                <img class="verso" src="imagens/valorant.png" alt="card" /> 
+            </div>
+            <div class="card" data-nome="jett">
+                <img class="frente" src="imagens/jett.jpg" alt="card" />
+                <img class="verso" src="imagens/valorant.png" alt="card" />
+            </div>
+            <div class="card" data-nome="neon">
+                <img class="frente" src="imagens/neon.jpg" alt="card" />
+                <img class="verso" src="imagens/valorant.png" alt="card" />
+            </div>
+            <div class="card" data-nome="neon">
+                <img class="frente" src="imagens/neon.jpg" alt="card" />
+                <img class="verso" src="imagens/valorant.png" alt="card" />
+            </div>
+            <div class="card" data-nome="sage">
+                <img class="frente" src="imagens/sage.jpg" alt="card" />
+                <img class="verso" src="imagens/valorant.png" alt="card" />
+            </div>
+            <div class="card" data-nome="sage">
+                <img class="frente" src="imagens/sage.jpg" alt="card" />
+                <img class="verso" src="imagens/valorant.png" alt="card" />
+            </div>
+            <div class="card" data-nome="viper">
+                <img class="frente" src="imagens/viper.jpg" alt="card" />
+                <img class="verso" src="imagens/valorant.png" alt="card" />
+            </div>
+            <div class="card" data-nome="viper">
+                <img class="frente" src="imagens/viper.jpg" alt="card" />
+                <img class="verso" src="imagens/valorant.png" alt="card" />
+            </div>
+
+
+        </section>
+        <section id="dir"></section>
+    </div>
+
+    <script src="in.js"></script>
+</body>
+
+</html>
