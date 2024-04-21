@@ -32,7 +32,8 @@ https://github.com/gabscost/MemoryGame_Valorant.
 
 ## Screenshot
 
-![Screenshot do Jogo](![image](https://github.com/gabscost/MemoryGame_Valorant/assets/104831757/2aeec233-dc0c-4348-98ee-0c03dfaf82de)
+(![image](![image](https://github.com/gabscost/MemoryGame_Valorant/assets/104831757/8db2c351-8b47-4b59-a2cb-1f111f21a3b7)
+)
 )
 
 ## Autor
