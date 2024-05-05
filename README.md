@@ -28,7 +28,8 @@ Se você deseja contribuir para este jogo, siga estas etapas:
 
 1. Clone o repositório:
 https://github.com/gabscost/MemoryGame_Valorant.
-2. Abra o arquivo `index.html` em um navegador da web.
+link game: https://gabscost.github.io/MemoryGame_Valorant/
+3. Abra o arquivo `index.html` em um navegador da web.
 
 ## Screenshot
 ![Screenshot](https://github.com/gabscost/MemoryGame_Valorant/assets/104831757/e2b93364-038e-447f-b8be-14a60ae6dfee)
